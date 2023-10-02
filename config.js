@@ -23,7 +23,7 @@ var config = {
             image: './path/to/image/source.png',
             description: '開湯1300年の歴史を持つ山中温泉は、芭蕉が称賛した日本三大名湯の1つ。1689年夏、奥の細道の道中、松尾芭蕉は山中温泉に長期にわたって滞在しました。山中温泉の数々の名所旧跡には芭蕉の句が残されています。',
             location: {
-                center: [-122.418398, 37.759483],
+                center: [36.24854378863617, 136.3728248348754],
                 zoom: 8.5,
                 pitch: 60,
                 bearing: 0
@@ -53,7 +53,7 @@ var config = {
             image: './path/to/image/source.png',
             description: '巨人・NYヤンキースで活躍した松井秀喜さんは石川県能美市出身。松井秀喜ベースボールミュージアムを起点に松井さんの母校（浜小学校、根上中学）をはじめ、根上りの松、弁慶謝罪の地などを巡ります。',
             location: {
-                center: [-122.418398, 37.759483],
+                center: [],
                 zoom: 8.5,
                 pitch: 60,
                 bearing: 0
