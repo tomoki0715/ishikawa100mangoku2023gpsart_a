@@ -12,7 +12,7 @@ var config = {
     auto: false,
     title: '石川百万石',
     subtitle: 'GPSアートで石川を描く',
-    byline: 'By a Digital Storyteller',
+    byline: 'Naoya＆Tomoki',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
